@@ -965,6 +965,7 @@ var DEFAULT_CONFIG = {
   ],
   useItemHP: 70,
   useItemMp: 70,
+  buyTreasureTimes: 1,
   useSecondSkills: true,
   buyTimes: 1,
 };
